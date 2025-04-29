@@ -39,8 +39,6 @@ This project presents a data-driven exploration of the Indian car market, focusi
 
 ## 📌 Sample Visuals
 
-> *(Include visuals in GitHub repo or portfolio site)*
-
 - Histogram: Car Price Distribution  
 - Heatmap: Correlation Between Features  
 - Scatter Plot: Mileage vs Price (Toyota)  
